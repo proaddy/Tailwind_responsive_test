@@ -1,2 +1,2 @@
 # Tailwind_responsive_test
-Trying out responsive design using tailwind CSS
+Trying out the responsive design using tailwind CSS
